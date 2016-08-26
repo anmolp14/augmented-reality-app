@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ARnavigation</string>
+    <string name="title_activity_main">Map</string>
+    <string name="formatted_place_data">
+        Name: %1$s\nAddress: %2$s\nPhone: %3$s\nWebsite: %4$s\nRating: %5$s\nId: %6$s\n
+    </string>
+    <string name="androidserver_key">AIzaSyC0NvcqqxoLqk1R6BzRsmU3f7V9-rMmWRQ</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
