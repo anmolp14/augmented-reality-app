@@ -34,5 +34,7 @@ Unlike infrared sensors we didn't have any means to calculate the exact distance
 * [https://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity/](https://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity/)
 * Android Documentation
 
+-App Demo video link: [https://youtu.be/Cnm6HZRYHeg](https://youtu.be/Cnm6HZRYHeg)  
+
  
 
