@@ -34,6 +34,5 @@ Unlike infrared sensors we didn't have any means to calculate the exact distance
 * [https://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity/](https://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity/)
 * Android Documentation
 
-Website: [http://11000011.github.io/Smart-Mirror](http://11000011.github.io/Smart-Mirror)  
-LaTeX Report: [report.pdf](http://github.com/11000011/Smart-Mirror/raw/gh-pages/report.pdf)  
-Github Wiki: [Smart Mirror Wiki](http://github.com/11000011/Smart-Mirror/wiki/)
+ 
+
